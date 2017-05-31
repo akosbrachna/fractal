@@ -1,4 +1,5 @@
 ﻿// This comes from another github project but can't remember from where
+// change colormap directory
 
 using System;
 using System.Collections;
